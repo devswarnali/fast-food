@@ -412,7 +412,7 @@ input[type="search"]{
     width: 200px;
     height: 200px;
     transform-style: preserve-3d;
-    animation: animate 20s linear infinite;
+    animation: animate 50s linear infinite;
 }
 
 @keyframes animate{
@@ -611,7 +611,8 @@ input[type="search"]{
 .regular-items-inner{
     width: 100%;
     height: 100%;
-    background-color: #d956733d;
+    /* background-color: #d956733d; */
+    background-color: #aea9a93d;
     padding: 15px;
     border-radius: 10px;
     overflow: hidden;
